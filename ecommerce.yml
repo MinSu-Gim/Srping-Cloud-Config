@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: 3mtHNk4js6X9FHrdh0Z4letCzLHAmIpv
+
+gateway:
+  ip: 192.168.0.10
