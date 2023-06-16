@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: WN0JhBJPzvfJv6b1?lGIY/XKBSzZO=mkxCKSpkB1CxsXCNi=p?tzj0nCSdMFdCJo8PsC6L/DdN=hzJXEnzy0-smZYxd-JxVb6Bjcuja4wY0UKtyy9RiPD-4r0DQNg98wB7HyZW6jH=wzZUxH7jugEKDmAC--WVcMqZBQ!m2!HXMTHH1dxEF3FB7jJAGfOcxzv?o6puAs6fTK-=WNecj?8eunROfRqE9ppUZtUhrLd=N8-xN=r/1?G0dXGU?pq=Gr
+  secret: rqfolyGklSevnyEuvBqWHprXQemvTPDXDBuCXkgJGVtmvNZiuaBcsKYcLyvDrvFTrbwPStpzNXqTYWlpgpOByDPOloZRTNZruWaTGqpUWOZNxcYUawesiJWEkSRihYDqSyvaPsfSDuAuNkDtbFSbVwlMkHXrKFEzgfRbMHNSykKawrSLPDEhJGrrzvCTyNSJrrWWTFQTYSEUkoWvggJMfWuqrOaqqXasRwigYDVXtecZPhyCmDWEbNgUdJwFBkMe
 
 gateway:
   ip: 192.168.0.10
